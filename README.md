@@ -8,6 +8,6 @@ Learn Piano
         fall apart.
     - Preliminary School of Velocity, Op. 849, 1. 1~8 bar. 20min.
 - 2022.12.04,
-  - Preliminary School of Velocity, Op. 849, . 1~16bar. 30min.
-
+    - Preliminary School of Velocity, Op. 849, 1. 1~16 bar. 30min.
+    - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt), 1~4 bar. 20min.
 
