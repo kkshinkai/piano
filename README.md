@@ -12,6 +12,6 @@ Learn Piano
     - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt), 1~4 bar. 20min.
 - 2022.12.05,
     - Tightened all the screws.
-    - Preliminary School of Velocity, Op. 849, 1. 1~16 bar. 30min.
+    - Preliminary School of Velocity, Op. 849, 1. 1~16 bar. 50min.
     - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt), 1~4 bar. 10min.
 
