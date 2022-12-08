@@ -17,6 +17,7 @@ Learn Piano
 - 2022.12.06,
     - Preliminary School of Velocity, Op. 849, 1. 1~16 bar. 10min.
     - Preliminary School of Velocity, Op. 849, 1. 17~22 bar. 20min.
-- 2022.12.07
+- 2022.12.07,
     - Preliminary School of Velocity, Op. 849, 1. 1~16 bar. 10min.
     - Preliminary School of Velocity, Op. 849, 1. 17~32 bar. 30min.
+- 2022.12.08, Preliminary School of Velocity, Op. 849, 1. 1~32 bar. 45min.
