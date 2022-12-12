@@ -27,5 +27,5 @@ Learn Piano
     - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt), 1~4 bar. 10min.
         (This piece is too hard for me.)
 - 2022.12.12,
-    - Czerny Op. 849, 1. 10min.
-    - Czerny Op. 849, 2. 1~8 bar. 10min.
+    - Czerny Op. 849, 1. 30min.
+    - Czerny Op. 849, 2. 1~8 bar. 20min.
