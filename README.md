@@ -29,3 +29,6 @@ Learn Piano
 - 2022.12.12,
     - Czerny Op. 849, 1. 30min.
     - Czerny Op. 849, 2. 1~8 bar. 20min.
+- 2022.12.13,
+    - Czerny Op. 849, 1. 20min.
+    - Czerny Op. 849, 2. 1~16 bar. 30min.
