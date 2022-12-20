@@ -25,7 +25,7 @@ Learn Piano
 - 2022.12.10,
     - Czerny Op. 849, 1. 15min.
     - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt), 1~4 bar. 10min.
-        (This piece is too hard for me. Stop.)
+        (This piece is too hard for me. Stop it.)
 - 2022.12.12,
     - Czerny Op. 849, 1. 30min.
     - Czerny Op. 849, 2. 1~8 bar. 20min.
@@ -35,6 +35,10 @@ Learn Piano
 - 2022.12.14,
     - Czerny Op. 849, 1. Czerny Op. 849, 2. 1~16 bar. 30min.
     - Czerny Op. 849, 2. 17~24 bar. 35min.
-- 2022.12.17
+- 2022.12.17,
     - Czerny Op. 849, 1. Czerny Op. 849, 2. 1~24 bar. 20min.
     - Czerny Op. 849, 2. 25~36 bar. 30min.
+- 2022.12.18,
+    - Czerny Op. 849, 1. 2. 50min.
+- 2022.12.19,
+    - Czerny Op. 849, 1. 2. 40min.
