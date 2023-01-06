@@ -42,5 +42,10 @@ Learn Piano
     - Czerny Op. 849, 1. 2. 50min.
 - 2022.12.19,
     - Czerny Op. 849, 1. 2. 40min.
-- 2022.01.04
+- 2022.01.04,
     - Czerny Op. 849, 1. 2. 30min.
+- 2022.01.05,
+    - Czerny Op. 849, 1. 2. 30min.
+- 2022.01.06,
+    - Czerny Op. 849, 1. 2. 60min.
+    - Czerny Op. 849, 3. 1~4 bar. 10min.
