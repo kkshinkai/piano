@@ -1,10 +1,8 @@
 Learn Piano
 ===========
 
-- 2022.12.01,
-    - I bought a new electric piano.
-- 2022.12.03,
-    - Czerny Op. 849, 1. 1~8 bar. 20min.
+- 2022.12.01, I bought a new electric piano.
+- 2022.12.03, Czerny Op. 849, 1. 1~8 bar. 20min.
 - 2022.12.04,
     - Czerny Op. 849, 1. 1~16 bar. 30min.
     - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt), 1~4 bar. 20min.
@@ -25,7 +23,6 @@ Learn Piano
 - 2022.12.10,
     - Czerny Op. 849, 1. 15min.
     - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt), 1~4 bar. 10min.
-        (This piece is too hard for me. Stop it.)
 - 2022.12.12,
     - Czerny Op. 849, 1. 30min.
     - Czerny Op. 849, 2. 1~8 bar. 20min.
@@ -49,3 +46,6 @@ Learn Piano
 - 2022.01.06,
     - Czerny Op. 849, 1. 2. 60min.
     - Czerny Op. 849, 3. 1~4 bar. 10min.
+- 2022.01.07,
+    - Czerny Op. 849, 1. 2. 20min.
+    - Czerny Op. 849, 3. 1~20 bar. 60min.
