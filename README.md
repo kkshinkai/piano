@@ -2,50 +2,46 @@ Learn Piano
 ===========
 
 - 2022.12.01, I bought a new electric piano.
-- 2022.12.03, Czerny Op. 849, 1. 1~8 bar. 20min.
-- 2022.12.04,
-    - Czerny Op. 849, 1. 1~16 bar. 30min.
-    - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt), 1~4 bar. 20min.
-- 2022.12.05,
-    - Czerny Op. 849, 1. 1~16 bar. 50min.
-    - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt), 1~4 bar. 10min.
-- 2022.12.06,
-    - Czerny Op. 849, 1. 1~16 bar. 10min.
-    - Czerny Op. 849, 1. 17~22 bar. 20min.
-- 2022.12.07,
-    - Czerny Op. 849, 1. 1~16 bar. 10min.
-    - Czerny Op. 849, 1. 17~32 bar. 30min.
-- 2022.12.08,
-    - Czerny Op. 849, 1. 1~32 bar. 65min.
-- 2022.12.09,
-    - Czerny Op. 849, 1. 1~32 bar. 30min.
-    - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt), 1~4 bar. 10min.
-- 2022.12.10,
-    - Czerny Op. 849, 1. 15min.
-    - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt), 1~4 bar. 10min.
-- 2022.12.12,
-    - Czerny Op. 849, 1. 30min.
-    - Czerny Op. 849, 2. 1~8 bar. 20min.
-- 2022.12.13,
-    - Czerny Op. 849, 1. 20min.
-    - Czerny Op. 849, 2. 1~16 bar. 30min.
-- 2022.12.14,
-    - Czerny Op. 849, 1. Czerny Op. 849, 2. 1~16 bar. 30min.
-    - Czerny Op. 849, 2. 17~24 bar. 35min.
-- 2022.12.17,
-    - Czerny Op. 849, 1. Czerny Op. 849, 2. 1~24 bar. 20min.
-    - Czerny Op. 849, 2. 25~36 bar. 30min.
-- 2022.12.18,
-    - Czerny Op. 849, 1. 2. 50min.
-- 2022.12.19,
-    - Czerny Op. 849, 1. 2. 40min.
-- 2022.01.04,
-    - Czerny Op. 849, 1. 2. 30min.
-- 2022.01.05,
-    - Czerny Op. 849, 1. 2. 30min.
-- 2022.01.06,
-    - Czerny Op. 849, 1. 2. 60min.
-    - Czerny Op. 849, 3. 1~4 bar. 10min.
-- 2022.01.07,
-    - Czerny Op. 849, 1. 2. 20min.
-    - Czerny Op. 849, 3. 1~20 bar. 60min.
+- 2022.12.03, 20min.
+- 2022.12.04, 50min.
+    - Czerny Op. 849, 1.
+    - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt).
+- 2022.12.05, 1h.
+    - Czerny Op. 849, 1.
+    - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt).
+- 2022.12.06, 30min.
+    - Czerny Op. 849, 1.
+- 2022.12.07, 40min.
+    - Czerny Op. 849, 1.
+- 2022.12.08, 1h 5min.
+    - Czerny Op. 849, 1.
+- 2022.12.09, 40min.
+    - Czerny Op. 849, 1.
+    - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt).
+- 2022.12.10, 25min.
+    - Czerny Op. 849, 1.
+    - Mozart, Sonata No. 16 in C Major, K.545 (1st Mvt).
+- 2022.12.12, 50min.
+    - Czerny Op. 849, 1. 2.
+- 2022.12.13, 50min.
+    - Czerny Op. 849, 1. 2.
+- 2022.12.14, 1h 5min.
+    - Czerny Op. 849, 1. 2.
+- 2022.12.17, 50min.
+    - Czerny Op. 849, 1. 2.
+- 2022.12.18, 50min.
+    - Czerny Op. 849, 1. 2.
+- 2022.12.19, 40min.
+    - Czerny Op. 849, 1. 2.
+- 2022.01.04, 30min.
+    - Czerny Op. 849, 1. 2.
+- 2022.01.05, 30min.
+    - Czerny Op. 849, 1. 2.
+- 2022.01.06, 1h 10min.
+    - Czerny Op. 849, 1 ~ 3.
+- 2022.01.07, 1h 20m.
+    - Czerny Op. 849, 1 ~ 3.
+- 2022.01.09, 2h.
+    - Czerny Op. 849, 1 ~ 3.
+- 2022.01.10, 4h.
+    - Czerny Op. 849, 1 ~ 4.
